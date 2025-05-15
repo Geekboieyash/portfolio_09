@@ -6,5 +6,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/portfolio_09/', // 👈 important for GitHub Pages
+  base: '/portfolio_09/', 
 });
