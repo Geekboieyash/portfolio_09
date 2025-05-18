@@ -200,7 +200,7 @@ const Contact: React.FC = () => {
             <div className="mt-8">
               <h4 className="font-medium mb-4">Follow me</h4>
               <div className="flex space-x-4">
-                <a href="https://github.com/Geekboieyash" target="_blank" rel="noopener noreferrer" className="p-2 rounded-full bg-gray-100 dark:bg-gray-800 hover:bg-indigo-100 dark:hover:bg-indigo-900/30 transition">
+                <a href="https://github.com/theycallmeyash/" target="_blank" rel="noopener noreferrer" className="p-2 rounded-full bg-gray-100 dark:bg-gray-800 hover:bg-indigo-100 dark:hover:bg-indigo-900/30 transition">
                   <Github size={20} className="text-indigo-600 dark:text-indigo-400" />
                 </a>
                 <a href="https://x.com/theynotlikeYash" target="_blank" rel="noopener noreferrer" className="p-2 rounded-full bg-gray-100 dark:bg-gray-800 hover:bg-indigo-100 dark:hover:bg-indigo-900/30 transition">
